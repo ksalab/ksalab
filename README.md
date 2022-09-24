@@ -30,7 +30,7 @@
   <a href="https://twitter.com/ksa_lab" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" width="72" height="25" alt="twitter logo"  />
   </a>
-  <img src="https://img.shields.io/badge/discord.svg?&style=for-the-badge&logo=discord&logoColor=white" width="72" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/badge/discord.svg?&style=for-the-badge&logo=discord&logoColor=white&logo=discord" width="72" height="25" alt="discord logo"  />
   <a href="https://t.me/ksalab" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="72" height="25" alt="telegram logo"  />
   </a>
