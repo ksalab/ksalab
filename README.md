@@ -28,13 +28,13 @@
 
 <div align="center">
 <a href="https://twitter.com/ksa_lab" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo" />
 </a>
 <a href="https://discord.com/" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
 </a>
 <a href="https://t.me/ksalab" target="_blank">
-<img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
+<img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo" />
 </a>
 </div>
 
@@ -45,8 +45,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=ksalab" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?locale=en&hide_title=false&layout=default&card_width=320&lang_count=5&theme=github_dark&hide_border=false&username=ksalab" height="150" alt="language graph" />
+<img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&username=ksalab" height="150" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?locale=en&hide_title=false&layout=default&card_width=320&lang_count=5&theme=github_dark&hide_border=false&username=ksalab" height="150" alt="language graph" />
 </div>
 
 ###
