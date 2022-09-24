@@ -38,7 +38,7 @@
 
 ###
 
-<p align="left">Statistic</p>
+<h2 align="center">Statistic</h2
 
 ###
 
