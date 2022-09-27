@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<div height="30" width="30" style="border: 1px, solid, #000000">test</div>
+<div height="30" width="30" style="border: 1px, solid, #ffffff">test<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></div>
 
 </div>
 
