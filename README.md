@@ -22,9 +22,9 @@
 
 ###
 <div>
-  <div class="box" width="30px" height="30px">1</div>
-  <div class="box" width="30px" height="30px">2</div>
-  <div class="box" width="30px" height="30px">3</div>
+  <div class="box box--responsive" width="30px" height="30px">1</div>
+  <div class="box box--responsive" width="30px" height="30px">2</div>
+  <div class="box box--responsive" width="30px" height="30px">3</div>
 </div>
 
 <h2 align="center">Contact Us</h2>
