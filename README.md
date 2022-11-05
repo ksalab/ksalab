@@ -21,11 +21,13 @@
 <h2 align="center">Testnets</h2>
 
 ###
-<div>
-  <div class="box box--responsive" width="30px" height="30px">1</div>
-  <div class="box box--responsive" width="30px" height="30px">2</div>
-  <div class="box box--responsive" width="30px" height="30px">3</div>
-</div>
+<ol class="d-flex flex-wrap list-style-none gutter-condensed mb-4">
+  <li class="mb-3 d-flex flex-content-stretch col-12 col-md-6 col-lg-6">1</li>
+  <li class="mb-3 d-flex flex-content-stretch col-12 col-md-6 col-lg-6">2</li>
+  <li class="mb-3 d-flex flex-content-stretch col-12 col-md-6 col-lg-6">3</li>
+  <li class="mb-3 d-flex flex-content-stretch col-12 col-md-6 col-lg-6">4</li>
+  <li class="mb-3 d-flex flex-content-stretch col-12 col-md-6 col-lg-6">5</li>
+</ol>
 
 <h2 align="center">Contact Us</h2>
 
