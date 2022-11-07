@@ -37,6 +37,7 @@ coming soon...
 <a href="#"><img src="/img/transformers.png" title="Transformers" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="/img/manta-logo-notext.png" title="Manta" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="/img/zeeka.png" title="Zeeka" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#"><img src="/img/minima.png" title="Minima" width="80" height="auto" style="max-width: 100%;"></a>
 </div>
 
 ###
