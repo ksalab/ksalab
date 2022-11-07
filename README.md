@@ -16,6 +16,8 @@
 
 <h2 align="center">Mainnets</h2>
 
+coming soon...
+
 ###
 
 <h2 align="center">Testnets</h2>
