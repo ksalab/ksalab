@@ -24,7 +24,7 @@ coming soon...
 
 <div align="center" dir="auto">
 
-<a href="https://github.com/ksalab/nodes/blob/main/node/gitopia.md"><img src="/img/gitopia-ico.png" title="Stride" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://github.com/ksalab/nodes/blob/main/node/gitopia.md"><img src="/img/gitopia-ico.png" title="Gitopia" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="/img/Stride.png" title="Stride" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="/img/DWS.png" title="DWS" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="/img/DeFund.png" title="DeFund" width="80" height="auto" style="max-width: 100%;"></a>
