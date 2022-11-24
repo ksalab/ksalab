@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="100%" src="https://raw.githubusercontent.com/ksalab/ksalab/main/2763864206_nodes_blockchain_without_words__future_HQ.png"  />
+  <img height="200" width="100%" src="https://raw.githubusercontent.com/ksalab/ksalab/main/img/1500x500.jpeg"  />
 </div>
 
 ###
