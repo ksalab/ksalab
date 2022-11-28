@@ -26,7 +26,7 @@ coming soon...
 
 <a href="https://github.com/ksalab/nodes/blob/main/node/gitopia.md"><img src="/img/gitopia-ico.png" title="Gitopia" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="/img/Stride.png" title="Stride" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#"><img src="/img/DWS.png" title="DWS" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explore.deweb.services/deweb/staking/dewebvaloper1fyv0j00pne5set2ws3r8jyl274hh94cvjeq3up" target="_blanc"><img src="/img/DWS.png" title="DWS" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="/img/DeFund.png" title="DeFund" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="/img/Ironfish.png" title="IronFish" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="/img/Massa.png" title="Massa" width="80" height="auto" style="max-width: 100%;"></a>
