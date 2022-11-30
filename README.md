@@ -24,14 +24,8 @@ coming soon...
 
 <div align="center" dir="auto">
 
-<div width="100px">
-<a href="https://github.com/ksalab/nodes/blob/main/node/gitopia.md"><img src="/img/gitopia-ico.png" title="Gitopia" width="80" height="auto" style="max-width: 100%;"></a><br>
-<a href="https://explorer.gitopia.com/validators/gitopiavaloper1jlpcfnxslnkctkt07apyyyc52c0ec3lhv0643q" target="_blank">Explorer</a>
-</div>
-<div width="100px">
-<a href="#"><img src="/img/Stride.png" title="Stride" width="80" height="auto" style="max-width: 100%;"></a><br>
-<a href="https://explorer.stavr.tech/stride" target="_blank">Explorer</a>
-</div>
+<a href="https://github.com/ksalab/nodes/blob/main/node/gitopia.md"><img src="/img/gitopia-ico.png" title="Gitopia" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.stavr.tech/stride" target="_blank"><img src="/img/Stride.png" title="Stride" width="80" height="auto" style="max-width: 100%;"></a><br>
 <a href="https://explore.deweb.services/deweb/staking/dewebvaloper1fyv0j00pne5set2ws3r8jyl274hh94cvjeq3up" target="_blank"><img src="/img/DWS.png" title="DWS" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://defund.explorers.guru/validator/defundvaloper123hdphhtuyectk0n2p3u560qr3v3h3fru5sr3r" target="_blank"><img src="/img/DeFund.png" title="DeFund" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="/img/Ironfish.png" title="IronFish" width="80" height="auto" style="max-width: 100%;"></a>
