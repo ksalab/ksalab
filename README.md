@@ -16,7 +16,7 @@
 
 <h2 align="center">Mainnets</h2>
 
-coming soon...
+<a href="https://app.lambda.im/staking"><img src="/img/lambda-ico.png" title="Lambda" width="80" height="auto" style="max-width: 100%;"></a>
 
 ###
 
