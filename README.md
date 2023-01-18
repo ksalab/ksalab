@@ -24,6 +24,7 @@
 
 <div align="center" dir="auto">
 
+<a href="https://github.com/ksalab/nodes/blob/main/node/dymension.md"><img src="/img/dymension.png" title="Dymension" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://github.com/ksalab/nodes/blob/main/node/gitopia.md"><img src="/img/gitopia-ico.png" title="Gitopia" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.stavr.tech/stride" target="_blank"><img src="/img/Stride.png" title="Stride" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explore.deweb.services/deweb/staking/dewebvaloper1fyv0j00pne5set2ws3r8jyl274hh94cvjeq3up" target="_blank"><img src="/img/DWS.png" title="DWS" width="80" height="auto" style="max-width: 100%;"></a>
