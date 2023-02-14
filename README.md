@@ -13,6 +13,7 @@
 <div align="center" dir="auto">
 
 <a href="https://app.lambda.im/staking"><img src="./img/lambda.png" title="Lambda" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#"><img src="img/minima.png" title="Minima" width="80" height="auto" style="max-width: 100%;"></a>
 
 </div>
 
@@ -21,7 +22,9 @@
 <div align="center" dir="auto">
 
 <a href="#"><img src="img/aleo.png" title="Aleo" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#"><img src="img/andromeda.png" title="Andromeda" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="img/aptos.png" title="Aptos" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#"><img src="img/babylon.png" title="Babylon" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="img/bifrost.svg" title="BiFrost" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="img/celestia.png" title="Celestia" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="img/chainflip.png" title="Chainflip" width="80" height="auto" style="max-width: 100%;"></a>
@@ -32,13 +35,13 @@
 <a href="https://telemetry.gear-tech.io/#list/0xd144f24baf0b991be22ea8dc7dd4540d9d1e971e6bf17b1770b9fc9c88272484" target="_blank"><img src="img/gear.png" title="Gear" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="img/goracle.png" title="Goracle" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://github.com/ksalab/nodes/blob/main/node/gitopia.md"><img src="img/gitopia.png" title="Gitopia" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#"><img src="img/humans.png" title="Humans" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="img/inery.png" title="Inery" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="img/ironfish.png" title="IronFish" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="img/lava.svg" title="Lava" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="img/mars.svg" title="Mars" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="img/masa.png" title="Masa" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="img/massa.png" title="Massa" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#"><img src="img/minima.png" title="Minima" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="img/namada.png" title="Namada" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="img/near.png" title="Near StakeWars 3" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="img/nibiru.png" title="Nibiru" width="80" height="auto" style="max-width: 100%;"></a>
