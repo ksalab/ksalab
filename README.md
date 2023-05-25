@@ -54,6 +54,7 @@
 <a href="#" target="_blank"><img src="img/nolus.svg" title="Nolus" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explore.okp4.network/" target="_blank"><img src="img/okp4.png" title="OKP4" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/ollo.png" title="Ollo" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/opside.svg" title="Opside" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/starknet.png" title="StarkNet" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.stavr.tech/stride" target="_blank"><img src="img/stride.png" title="Stride" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.tfsc.io/#/pc/index" target="_blank"><img src="img/transformers.png" title="Transformers" width="80" height="auto" style="max-width: 100%;"></a>
