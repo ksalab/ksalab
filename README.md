@@ -29,6 +29,7 @@
 <a href="#"><img src="img/babylon.png" title="Babylon" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="img/bifrost.svg" title="BiFrost" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="img/bitcana.svg" title="Bitcana" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#"><img src="img/bundlr.svg" title="Bundlr" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="img/celestia.png" title="Celestia" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#"><img src="img/chainflip.png" title="Chainflip" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://defund.explorers.guru/validator/defundvaloper123hdphhtuyectk0n2p3u560qr3v3h3fru5sr3r" target="_blank"><img src="img/defund.png" title="DeFund" width="80" height="auto" style="max-width: 100%;"></a>
