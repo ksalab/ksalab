@@ -127,12 +127,10 @@
 
 </div>
 
-<h2 align="center">🐦 Latest Tweet</h2>
+<h2 align="center">🐦 Latest Blog</h2>
 
 <div align="center">
-
-  [![](https://gtce.itsvg.in/api?username=@ksa_lab)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ksalab&theme=dark" alt="Layout with last medium posts"  />
 </div>
 
 comming soon...
