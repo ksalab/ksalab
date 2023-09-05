@@ -13,6 +13,7 @@
 <div align="center" dir="auto">
 
 <a href="https://explorer.ksalab.xyz/bitcanna/staking/bcnavaloper103cx4ludlqd4q9eefamq5erk7tp65kch6pjutw" target="_blank"><img src="img/bitcana.svg" title="Bitcana" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/empower/staking/empowervaloper1shkekeufxhxz962trpswj7qkhpjl39fsv70ujp" target="_blank"><img src="img/empower.png" title="Empower" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/lambda/staking/lambvaloper125zhu6dzklddr7ctdek7zu8drwj28c7qc894mf" target="_black"><img src="./img/lambda.png" title="Lambda" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://www.minima.global/" target="_black"><img src="img/minima.png" title="Minima" width="80" height="auto" style="max-width: 100%;"></a>
 
