@@ -28,6 +28,7 @@
 <a href="#" target="_blank"><img src="img/andromeda.png" title="Andromeda" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/aptos.png" title="Aptos" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/archway.png" title="Archway" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/avail.png" title="Avail" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/babylon.png" title="Babylon" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/bifrost.svg" title="BiFrost" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/bundlr.svg" title="Bundlr" width="80" height="auto" style="max-width: 100%;"></a>
