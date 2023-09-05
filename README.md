@@ -25,6 +25,7 @@
 
 <a href="#" target="_blank"><img src="img/5ire.png" title="5ire" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/aleo.png" title="Aleo" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/alephzero.png" title="AlephZero" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/andromeda.png" title="Andromeda" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/aptos.png" title="Aptos" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/archway.png" title="Archway" width="80" height="auto" style="max-width: 100%;"></a>
@@ -46,7 +47,9 @@
 <a href="#" target="_blank"><img src="img/humans.png" title="Humans" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/inery.png" title="Inery" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/ironfish.png" title="IronFish" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/jackal.png" title="Jackal" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/lava.svg" title="Lava" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/mande.png" title="Mande" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/mars.svg" title="Mars" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/masa.png" title="Masa" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/massa.png" title="Massa" width="80" height="auto" style="max-width: 100%;"></a>
@@ -62,6 +65,7 @@
 <a href="#" target="_blank"><img src="img/starknet.png" title="StarkNet" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.stavr.tech/stride" target="_blank"><img src="img/stride.png" title="Stride" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.tfsc.io/#/pc/index" target="_blank"><img src="img/transformers.png" title="Transformers" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/vara.png" title="Vara" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/zeeka.png" title="Zeeka" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/ziesha.png" title="Ziesha" width="80" height="auto" style="max-width: 100%;"></a>
 
