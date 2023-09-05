@@ -12,7 +12,8 @@
 
 <div align="center" dir="auto">
 
-<a href="https://app.lambda.im/staking" target="_black"><img src="./img/lambda.png" title="Lambda" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/bitcanna/staking/bcnavaloper103cx4ludlqd4q9eefamq5erk7tp65kch6pjutw" target="_blank"><img src="img/bitcana.svg" title="Bitcana" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/lambda/staking/lambvaloper125zhu6dzklddr7ctdek7zu8drwj28c7qc894mf" target="_black"><img src="./img/lambda.png" title="Lambda" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://www.minima.global/" target="_black"><img src="img/minima.png" title="Minima" width="80" height="auto" style="max-width: 100%;"></a>
 
 </div>
@@ -28,7 +29,6 @@
 <a href="#" target="_blank"><img src="img/archway.png" title="Archway" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/babylon.png" title="Babylon" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/bifrost.svg" title="BiFrost" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/bitcana.svg" title="Bitcana" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/bundlr.svg" title="Bundlr" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/cascadia.jpg" title="Cascadia" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/celestia.png" title="Celestia" width="80" height="auto" style="max-width: 100%;"></a>
