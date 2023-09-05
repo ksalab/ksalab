@@ -25,7 +25,7 @@
 
 <a href="#" target="_blank"><img src="img/5ire.png" title="5ire" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/aleo.png" title="Aleo" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/alephzero.png" title="AlephZero" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/alephzero.jpg" title="AlephZero" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/andromeda.png" title="Andromeda" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/aptos.png" title="Aptos" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/archway.png" title="Archway" width="80" height="auto" style="max-width: 100%;"></a>
