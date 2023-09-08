@@ -69,7 +69,6 @@
 <a href="#" target="_blank"><img src="img/vara.png" title="Vara" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/zeeka.png" title="Zeeka" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/ziesha.png" title="Ziesha" width="80" height="auto" style="max-width: 100%;"></a>
-![Ziesha](img/ziesha.png){ width=300px height=200px }
 
 </div>
 
