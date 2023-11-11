@@ -13,6 +13,7 @@
 <a href="https://explorer.ksalab.xyz/lambda/staking/lambvaloper125zhu6dzklddr7ctdek7zu8drwj28c7qc894mf" target="_black"><img src="./img/lambda.png" title="Lambda" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.nymtech.net/network-components/mixnode/1046" target="_black"><img src="./img/nym.png" title="NYM mixnode" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://www.minima.global/" target="_black"><img src="img/minima.png" title="Minima" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/sgenet-1/staking/sgevaloper1e4n6enpatpe0a3eqw6gzcpgq2vgd9a3zcg8ffl" target="_blank"><img src="img/sixsigmasports.png" title="Sigma Sport" width="80" height="auto" style="max-width: 100%;"></a>
 
 ## Testnets
 
@@ -58,7 +59,6 @@
 <a href="#" target="_blank"><img src="img/ollo.png" title="Ollo" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/opside.png" title="Opside" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/peak.png" title="Peeq" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/sixsigmasports.png" title="Sigma Sport" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/starknet.png" title="StarkNet" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.stavr.tech/stride" target="_blank"><img src="img/stride.png" title="Stride" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/thepowerio.png" title="ThePower" width="80" height="auto" style="max-width: 100%;"></a>
