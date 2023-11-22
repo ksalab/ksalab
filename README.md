@@ -20,15 +20,16 @@
 <a href="#" target="_blank"><img src="img/5ire.png" title="5ire" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/aleo.png" title="Aleo" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/alephzero.png" title="AlephZero" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/althea.png" title="Althea" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/andromeda.png" title="Andromeda" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/althea/staking/altheavaloper14sazswzv2hvtkmsd8tzqzn99saujumqccgp8yt" target="_blank"><img src="img/althea.png" title="Althea" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/galileo-3/staking/andrvaloper1panvq2thn0t8rkupyyxzt48uxf4kv9dfjsyzeh" target="_blank"><img src="img/andromeda.png" title="Andromeda" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/aptos.png" title="Aptos" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/archway.png" title="Archway" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/avail.png" title="Avail" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/babylon.png" title="Babylon" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/arkeo/staking/tarkeovaloper1qznu5t6w3m8qfcx5evj96vnz7w57hndqyx9jva" target="_blank"><img src="img/arkeo.png" title="Arkeo" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://goldberg.avail.tools/#/staking" target="_blank"><img src="img/avail.png" title="Avail" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/babylon/staking/bbnvaloper1pzpu636l3dyenc2psd648cysg7zfv8ldm6gjae" target="_blank"><img src="img/babylon.png" title="Babylon" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/bifrost.png" title="BiFrost" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/bundlr.png" title="Bundlr" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/cascadia.png" title="Cascadia" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/cascadia_6102-1/staking/cascadiavaloper1lpvdzmc30540y266djnlm9jwmakwzw2yu759jf" target="_blank"><img src="img/cascadia.png" title="Cascadia" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/celestia.png" title="Celestia" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/chainflip.png" title="Chainflip" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://defund.explorers.guru/validator/defundvaloper123hdphhtuyectk0n2p3u560qr3v3h3fru5sr3r" target="_blank"><img src="img/defund.png" title="DeFund" width="80" height="auto" style="max-width: 100%;"></a>
@@ -44,8 +45,8 @@
 <a href="#" target="_blank"><img src="img/inery.png" title="Inery" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/ironfish.png" title="IronFish" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/jackal.png" title="Jackal" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/lava.png" title="Lava" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/mande.png" title="Mande" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/lava-testnet-2/staking/lava@valoper1g7xt4prpusv8kutejj5rntg338q7s5uer56c28" target="_blank"><img src="img/lava.png" title="Lava" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/mande-testnet-2/staking/mandevaloper18gudsfnsk8qcnhhludfjjurswrua227xs69ewl" target="_blank"><img src="img/mande.png" title="Mande" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/mars.png" title="Mars" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/masa.png" title="Masa" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/massa.png" title="Massa" width="80" height="auto" style="max-width: 100%;"></a>
@@ -66,9 +67,7 @@
 <a href="#" target="_blank"><img src="img/vara.png" title="Vara" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/wormhole.png" title="Wormhole" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/zeeka.png" title="Zeeka" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank">
-<img src="img/ziesha.png" title="Ziesha" width="80" height="auto" style="max-width: 100%;">
-</a>
+<a href="#" target="_blank"><img src="img/ziesha.png" title="Ziesha" width="80" height="auto" style="max-width: 100%;"></a>
 
 ## 🌐 Contact Us
 
@@ -116,6 +115,6 @@
 
 ## 🐦 Latest Blog
 
-![Blog](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ksalab&theme=dark)
+![Blog](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=ksalab&theme=dark)
 
 comming soon...
