@@ -112,7 +112,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ksalab&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ksalab&theme=radical&no-frame=false&no-bg=true&margin-w=4&col=3)
 
 ## 🐦 Latest Blog
 
