@@ -60,6 +60,7 @@
 <a href="#" target="_blank"><img src="img/ollo.png" title="Ollo" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/opside.png" title="Opside" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/peak.png" title="Peeq" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/pryzm.png" title="Peeq" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/sixsigmasports_new.png" title="Sigma Sport" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/starknet.png" title="StarkNet" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.stavr.tech/stride" target="_blank"><img src="img/stride.png" title="Stride" width="80" height="auto" style="max-width: 100%;"></a>
