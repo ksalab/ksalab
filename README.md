@@ -65,7 +65,7 @@
 <a href="#" target="_blank"><img src="img/starknet.png" title="StarkNet" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.stavr.tech/stride" target="_blank"><img src="img/stride.png" title="Stride" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/thepowerio.png" title="ThePower" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://explorer.tfsc.io/#/pc/index" target="_blank"><img src="img/transformers.png" title="Transformers" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.tfsc.io/#/pc/ValidatorDetail?address=1NEzai1ot46MRztiw1RKfnrsPJ8bwhgEps" target="_blank"><img src="img/transformers.png" title="Transformers" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/vara.png" title="Vara" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/wormhole.png" title="Wormhole" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/zeeka.png" title="Zeeka" width="80" height="auto" style="max-width: 100%;"></a>
