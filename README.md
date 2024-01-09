@@ -46,6 +46,7 @@
 <a href="#" target="_blank"><img src="img/ironfish.png" title="IronFish" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/jackal.png" title="Jackal" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/lava-testnet-2/staking/lava@valoper1g7xt4prpusv8kutejj5rntg338q7s5uer56c28" target="_blank"><img src="img/lava.png" title="Lava" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://alpha-beacon.lumoz.info/validator/915ea74b420ef1713fe68976488970a0102631c12da58433251e9c4d6b8ac0ed4297cdd824e83a3e5115794c028ac6d4" target="_blank"><img src="img/opside.png" title="Lumoz (Opside)" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/mande-testnet-2/staking/mandevaloper18gudsfnsk8qcnhhludfjjurswrua227xs69ewl" target="_blank"><img src="img/mande.png" title="Mande" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/mars.png" title="Mars" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/masa.png" title="Masa" width="80" height="auto" style="max-width: 100%;"></a>
@@ -58,10 +59,9 @@
 <a href="#" target="_blank"><img src="img/ojo.png" title="Ojo" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explore.okp4.network/" target="_blank"><img src="img/okp4.png" title="OKP4" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/ollo.png" title="Ollo" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/opside.png" title="Opside" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/peak.png" title="Peeq" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/indigo-1/staking/pryzmvaloper19frj68z3qh5znk8wkmwezde9e3dql2pylttqzj" target="_blank"><img src="img/pryzm.png" title="Pryzm" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/sixsigmasports_new.png" title="Sigma Sport" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/sge-network-4/staking/sgevaloper1wn7xdzsrv9uewd7hzqp6lkhgl0aqjdnyf5n9qt" target="_blank"><img src="img/sixsigmasports_new.png" title="Sigma Sport" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/starknet.png" title="StarkNet" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.stavr.tech/stride" target="_blank"><img src="img/stride.png" title="Stride" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/thepowerio.png" title="ThePower" width="80" height="auto" style="max-width: 100%;"></a>
