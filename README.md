@@ -45,6 +45,7 @@
 <a href="#" target="_blank"><img src="img/inery.png" title="Inery" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/ironfish.png" title="IronFish" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/jackal.png" title="Jackal" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/koii.png" title="Koii" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/lava-testnet-2/staking/lava@valoper1g7xt4prpusv8kutejj5rntg338q7s5uer56c28" target="_blank"><img src="img/lava.png" title="Lava" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://alpha-beacon.lumoz.info/validator/915ea74b420ef1713fe68976488970a0102631c12da58433251e9c4d6b8ac0ed4297cdd824e83a3e5115794c028ac6d4" target="_blank"><img src="img/opside.png" title="Lumoz (Opside)" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/mande-testnet-2/staking/mandevaloper18gudsfnsk8qcnhhludfjjurswrua227xs69ewl" target="_blank"><img src="img/mande.png" title="Mande" width="80" height="auto" style="max-width: 100%;"></a>
