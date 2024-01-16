@@ -12,6 +12,7 @@
 <a href="https://explorer.ksalab.xyz/empower/staking/empowervaloper1shkekeufxhxz962trpswj7qkhpjl39fsv70ujp" target="_blank"><img src="img/empower.png" title="Empower" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/lambda/staking/lambvaloper125zhu6dzklddr7ctdek7zu8drwj28c7qc894mf" target="_black"><img src="img/lambda.png" title="Lambda" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.nymtech.net/network-components/mixnode/1046" target="_black"><img src="img/nym.png" title="NYM mixnode" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.massa.net/mainnet/address/AU121hzUt8faWd4fkNgtZ9E38vV2tBh1s71hM1QM9qou43VXGcZni" target="_blank"><img src="img/massa.png" title="Massa" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://www.minima.global/" target="_black"><img src="img/minima.png" title="Minima" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/sgenet-1/staking/sgevaloper1e4n6enpatpe0a3eqw6gzcpgq2vgd9a3zcg8ffl" target="_blank"><img src="img/sixsigmasports_new.png" title="Sigma Sport" width="80" height="auto" style="max-width: 100%;"></a>
 
@@ -61,7 +62,6 @@
 <a href="#" target="_blank"><img src="img/mande.png" title="Mande" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/mars.png" title="Mars" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/masa.png" title="Masa" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/massa.png" title="Massa" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/namada.png" title="Namada" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/near.png" title="Near StakeWars 3" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/nibiru.png" title="Nibiru" width="80" height="auto" style="max-width: 100%;"></a>
