@@ -18,9 +18,9 @@
 ## Testnets
 
 <a href="https://explorer.ksalab.xyz/althea/staking/altheavaloper14sazswzv2hvtkmsd8tzqzn99saujumqccgp8yt" target="_blank"><img src="img/althea.png" title="Althea" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/altera.png" title="Altera" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/galileo-3/staking/andrvaloper1panvq2thn0t8rkupyyxzt48uxf4kv9dfjsyzeh" target="_blank"><img src="img/andromeda.png" title="Andromeda" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/arkeo/staking/tarkeovaloper1qznu5t6w3m8qfcx5evj96vnz7w57hndqyx9jva" target="_blank"><img src="img/arkeo.png" title="Arkeo" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/artela.png" title="Artela" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://goldberg.avail.tools/#/staking" target="_blank"><img src="img/avail.png" title="Avail" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/babylon/staking/bbnvaloper1pzpu636l3dyenc2psd648cysg7zfv8ldm6gjae" target="_blank"><img src="img/babylon.png" title="Babylon" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/cascadia_6102-1/staking/cascadiavaloper1lpvdzmc30540y266djnlm9jwmakwzw2yu759jf" target="_blank"><img src="img/cascadia.png" title="Cascadia" width="80" height="auto" style="max-width: 100%;"></a>
