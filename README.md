@@ -33,6 +33,7 @@
 <a href="#" target="_blank"><img src="img/peak.png" title="Peeq" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/indigo-1/staking/pryzmvaloper19frj68z3qh5znk8wkmwezde9e3dql2pylttqzj" target="_blank"><img src="img/pryzm.png" title="Pryzm" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/sge-network-4/staking/sgevaloper1wn7xdzsrv9uewd7hzqp6lkhgl0aqjdnyf5n9qt" target="_blank"><img src="img/sixsigmasports_new.png" title="Sigma Sport" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/tengle.png" title="Tangle" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.tfsc.io/#/pc/ValidatorDetail?address=1NEzai1ot46MRztiw1RKfnrsPJ8bwhgEps" target="_blank"><img src="img/transformers.png" title="Transformers" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/vistara.png" title="Vistara" width="80" height="auto" style="max-width: 100%;"></a>
 
