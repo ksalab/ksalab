@@ -37,7 +37,7 @@
 <a href="https://explorer.tfsc.io/#/pc/ValidatorDetail?address=1NEzai1ot46MRztiw1RKfnrsPJ8bwhgEps" target="_blank"><img src="img/transformers.png" title="Transformers" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/vistara.png" title="Vistara" width="80" height="auto" style="max-width: 100%;"></a>
 
-## Testnets
+## Archive
 
 <a href="#" target="_blank"><img src="img/5ire.png" title="5ire" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/aleo.png" title="Aleo" width="80" height="auto" style="max-width: 100%;"></a>
