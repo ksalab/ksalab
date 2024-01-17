@@ -24,6 +24,7 @@
 <a href="https://explorer.ksalab.xyz/artela_11822-1/staking/artvaloper1yzh74yayvrfk7sgas7gkpurkus8uxs6evvqp69" target="_blank"><img src="img/artela.png" title="Artela" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://goldberg.avail.tools/#/staking" target="_blank"><img src="img/avail.png" title="Avail" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/babylon/staking/bbnvaloper1pzpu636l3dyenc2psd648cysg7zfv8ldm6gjae" target="_blank"><img src="img/babylon.png" title="Babylon" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/bevm.png" title="BEVM" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/cascadia_6102-1/staking/cascadiavaloper1lpvdzmc30540y266djnlm9jwmakwzw2yu759jf" target="_blank"><img src="img/cascadia.png" title="Cascadia" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/elixir.png" title="Elixir" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/elys.png" title="Elys" width="80" height="auto" style="max-width: 100%;"></a>
@@ -33,6 +34,7 @@
 <a href="#" target="_blank"><img src="img/peak.png" title="Peeq" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/indigo-1/staking/pryzmvaloper19frj68z3qh5znk8wkmwezde9e3dql2pylttqzj" target="_blank"><img src="img/pryzm.png" title="Pryzm" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/sge-network-4/staking/sgevaloper1wn7xdzsrv9uewd7hzqp6lkhgl0aqjdnyf5n9qt" target="_blank"><img src="img/sixsigmasports_new.png" title="Sigma Sport" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/subsquid.png" title="Subsquid" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/tengle.png" title="Tangle" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.tfsc.io/#/pc/ValidatorDetail?address=1NEzai1ot46MRztiw1RKfnrsPJ8bwhgEps" target="_blank"><img src="img/transformers.png" title="Transformers" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/vistara.png" title="Vistara" width="80" height="auto" style="max-width: 100%;"></a>
