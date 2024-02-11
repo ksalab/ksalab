@@ -36,6 +36,7 @@
 <a href="#" target="_blank"><img src="img/tengle.png" title="Tangle" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.tfsc.io/#/pc/ValidatorDetail?address=1NEzai1ot46MRztiw1RKfnrsPJ8bwhgEps" target="_blank"><img src="img/transformers.png" title="Transformers" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/vistara.png" title="Vistara" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://voi-nodes.dev/node/26aec3d7-fe99" target="_blank"><img src="img/voi.png" title="Voi" width="80" height="auto" style="max-width: 100%;"></a>
 
 ## Archive
 
