@@ -24,6 +24,7 @@
 <a href="https://goldberg.avail.tools/#/staking" target="_blank"><img src="img/avail.png" title="Avail" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/babylon/staking/bbnvaloper1pzpu636l3dyenc2psd648cysg7zfv8ldm6gjae" target="_blank"><img src="img/babylon.png" title="Babylon" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/bevm.png" title="BEVM" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/dusk.png" title="Dusk" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/elixir.png" title="Elixir" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/elys.png" title="Elys" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/koii.png" title="Koii" width="80" height="auto" style="max-width: 100%;"></a>
@@ -51,7 +52,6 @@
 <a href="#" target="_blank"><img src="img/celestia.png" title="Celestia" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/chainflip.png" title="Chainflip" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/defund.png" title="DeFund" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/dusk.png" title="Dusk" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/dws.png" title="DWS" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/dymension.png" title="Dymension" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/gear.png" title="Gear" width="80" height="auto" style="max-width: 100%;"></a>
