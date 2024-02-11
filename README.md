@@ -11,7 +11,6 @@
 <a href="https://explorer.ksalab.xyz/bitcanna/staking/bcnavaloper103cx4ludlqd4q9eefamq5erk7tp65kch6pjutw" target="_blank"><img src="img/bitcanna.png" alt="Bitcanna" title="Bitcana" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/empower/staking/empowervaloper1shkekeufxhxz962trpswj7qkhpjl39fsv70ujp" target="_blank"><img src="img/empower.png" title="Empower" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/lambda/staking/lambvaloper125zhu6dzklddr7ctdek7zu8drwj28c7qc894mf" target="_black"><img src="img/lambda.png" title="Lambda" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://explorer.nymtech.net/network-components/mixnode/1046" target="_black"><img src="img/nym.png" title="NYM mixnode" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.massa.net/mainnet/address/AU121hzUt8faWd4fkNgtZ9E38vV2tBh1s71hM1QM9qou43VXGcZni" target="_blank"><img src="img/massa.png" title="Massa" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://www.minima.global/" target="_black"><img src="img/minima.png" title="Minima" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/sgenet-1/staking/sgevaloper1e4n6enpatpe0a3eqw6gzcpgq2vgd9a3zcg8ffl" target="_blank"><img src="img/sixsigmasports_new.png" title="Sigma Sport" width="80" height="auto" style="max-width: 100%;"></a>
@@ -25,7 +24,6 @@
 <a href="https://goldberg.avail.tools/#/staking" target="_blank"><img src="img/avail.png" title="Avail" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/babylon/staking/bbnvaloper1pzpu636l3dyenc2psd648cysg7zfv8ldm6gjae" target="_blank"><img src="img/babylon.png" title="Babylon" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/bevm.png" title="BEVM" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://explorer.ksalab.xyz/cascadia_6102-1/staking/cascadiavaloper1lpvdzmc30540y266djnlm9jwmakwzw2yu759jf" target="_blank"><img src="img/cascadia.png" title="Cascadia" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/elixir.png" title="Elixir" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/elys.png" title="Elys" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/koii.png" title="Koii" width="80" height="auto" style="max-width: 100%;"></a>
@@ -48,6 +46,7 @@
 <a href="#" target="_blank"><img src="img/archway.png" title="Archway" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/bifrost.png" title="BiFrost" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/bundlr.png" title="Bundlr" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="№" target="_blank"><img src="img/cascadia.png" title="Cascadia" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/celestia.png" title="Celestia" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/chainflip.png" title="Chainflip" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/defund.png" title="DeFund" width="80" height="auto" style="max-width: 100%;"></a>
@@ -69,6 +68,7 @@
 <a href="#" target="_blank"><img src="img/near.png" title="Near StakeWars 3" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/nibiru.png" title="Nibiru" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/nolus.png" title="Nolus" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="№" target="_black"><img src="img/nym.png" title="NYM mixnode" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/obol.png" title="Obol" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/ojo.png" title="Ojo" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/okp4.png" title="OKP4" width="80" height="auto" style="max-width: 100%;"></a>
