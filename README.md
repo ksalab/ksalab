@@ -32,6 +32,7 @@
 <a href="https://alpha-beacon.lumoz.info/validator/915ea74b420ef1713fe68976488970a0102631c12da58433251e9c4d6b8ac0ed4297cdd824e83a3e5115794c028ac6d4" target="_blank"><img src="img/opside.png" title="Lumoz (Opside)" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/peak.png" title="Peeq" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/indigo-1/staking/pryzmvaloper19frj68z3qh5znk8wkmwezde9e3dql2pylttqzj" target="_blank"><img src="img/pryzm.png" title="Pryzm" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/side-testnet-2/staking/sidevaloper1q9ywpsf3u58q79tcp3jslpagwq3asd9w4h2080" target="_blank"><img src="img/sidechain.png" title="SideChain" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/sge-network-4/staking/sgevaloper1wn7xdzsrv9uewd7hzqp6lkhgl0aqjdnyf5n9qt" target="_blank"><img src="img/sixsigmasports_new.png" title="Sigma Sport" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/subsquid.png" title="Subsquid" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/tengle.png" title="Tangle" width="80" height="auto" style="max-width: 100%;"></a>
