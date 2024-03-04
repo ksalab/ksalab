@@ -22,7 +22,7 @@
 <a href="https://explorer.ksalab.xyz/arkeo/staking/tarkeovaloper1qznu5t6w3m8qfcx5evj96vnz7w57hndqyx9jva" target="_blank"><img src="img/arkeo.png" title="Arkeo" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/artela_11822-1/staking/artvaloper1yzh74yayvrfk7sgas7gkpurkus8uxs6evvqp69" target="_blank"><img src="img/artela.png" title="Artela" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://goldberg.avail.tools/#/staking" target="_blank"><img src="img/avail.png" title="Avail" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://explorer.ksalab.xyz/babylon/staking/bbnvaloper1pzpu636l3dyenc2psd648cysg7zfv8ldm6gjae" target="_blank"><img src="img/babylon.png" title="Babylon" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/bbn-test-3/staking/bbnvaloper1pzpu636l3dyenc2psd648cysg7zfv8ldm6gjae" target="_blank"><img src="img/babylon.png" title="Babylon" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/bevm.png" title="BEVM" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/dusk.png" title="Dusk" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/elixir.png" title="Elixir" width="80" height="auto" style="max-width: 100%;"></a>
