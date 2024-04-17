@@ -4,7 +4,7 @@
 
 ### VALIDATOR PROFILE
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ksalab.ksalab&right_color=darkviolet)
+[![](https://visitcount.itsvg.in/api?id=ksalab&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## Mainnets
 
