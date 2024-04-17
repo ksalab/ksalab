@@ -6,8 +6,6 @@
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ksalab.ksalab&right_color=darkviolet)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ksalab.ksalab&right_color=darkviolet">
-
 ## Mainnets
 
 <a href="https://explorer.ksalab.xyz/bitcanna/staking/bcnavaloper103cx4ludlqd4q9eefamq5erk7tp65kch6pjutw" target="_blank"><img src="img/bitcanna.png" alt="Bitcanna" title="Bitcana" width="80" height="auto" style="max-width: 100%;"></a>
