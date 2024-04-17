@@ -4,8 +4,9 @@
 
 ### VALIDATOR PROFILE
 
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ksalab.ksalab&right_color=darkviolet)](Visitor)
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ksalab.ksalab&right_color=darkviolet">
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=ksalab.ksalab&right_color=darkviolet)
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ksalab.ksalab&right_color=darkviolet">
 
 ## Mainnets
 
