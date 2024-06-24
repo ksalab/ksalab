@@ -27,6 +27,7 @@
 <a href="#" target="_blank"><img src="img/nubit.png" title="Nubit" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/lava-testnet-2/staking/lava@valoper1g7xt4prpusv8kutejj5rntg338q7s5uer56c28" target="_blank"><img src="img/lava.png" title="Lava" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://alpha-beacon.lumoz.info/validator/915ea74b420ef1713fe68976488970a0102631c12da58433251e9c4d6b8ac0ed4297cdd824e83a3e5115794c028ac6d4" target="_blank"><img src="img/opside.png" title="Lumoz (Opside)" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/self/staking/selfvaloper19c9hnzqwer6clp8aal3n6y7gcdah4l3ydrrkqv" target="_blank"><img src="img/self.png" title="SelfChain" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/sge-network-4/staking/sgevaloper1wn7xdzsrv9uewd7hzqp6lkhgl0aqjdnyf5n9qt" target="_blank"><img src="img/sixsigmasports_new.png" title="Sigma Sport" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.tfsc.io/#/pc/ValidatorDetail?address=0x2f0b706D005dBa942b3e80A2Ecc6a0DcD940937F" target="_blank"><img src="img/transformers.png" title="Transformers" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://voi-nodes.dev/node/26aec3d7-fe99" target="_blank"><img src="img/voi.png" title="Voi" width="80" height="auto" style="max-width: 100%;"></a>
