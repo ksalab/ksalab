@@ -10,34 +10,25 @@
 
 <a href="https://explorer.ksalab.xyz/bitcanna/staking/bcnavaloper103cx4ludlqd4q9eefamq5erk7tp65kch6pjutw" target="_blank"><img src="img/bitcanna.png" alt="Bitcanna" title="Bitcana" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/empower/staking/empowervaloper1shkekeufxhxz962trpswj7qkhpjl39fsv70ujp" target="_blank"><img src="img/empower.png" title="Empower" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/farcaster.png" title="Farcaster" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/lambda/staking/lambvaloper125zhu6dzklddr7ctdek7zu8drwj28c7qc894mf" target="_black"><img src="img/lambda.png" title="Lambda" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.massa.net/mainnet/address/AU121hzUt8faWd4fkNgtZ9E38vV2tBh1s71hM1QM9qou43VXGcZni" target="_blank"><img src="img/massa.png" title="Massa" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://www.minima.global/" target="_black"><img src="img/minima.png" title="Minima" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://explorer.ksalab.xyz/sgenet-1/staking/sgevaloper1e4n6enpatpe0a3eqw6gzcpgq2vgd9a3zcg8ffl" target="_blank"><img src="img/sixsigmasports_new.png" title="Sigma Sport" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/self/staking/selfvaloper15nwj8q89h66qq0tuwrj95qmx8x0yqwa2gcpvzc" target="_blank"><img src="img/self.png" title="SelfChain" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/sge/staking/sgevaloper1e4n6enpatpe0a3eqw6gzcpgq2vgd9a3zcg8ffl" target="_blank"><img src="img/sixsigmasports_new.png" title="Sigma Sport" width="80" height="auto" style="max-width: 100%;"></a>
 
 ## Testnets
 
-<a href="https://explorer.ksalab.xyz/althea/staking/altheavaloper14sazswzv2hvtkmsd8tzqzn99saujumqccgp8yt" target="_blank"><img src="img/althea.png" title="Althea" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://explorer.ksalab.xyz/galileo-3/staking/andrvaloper1panvq2thn0t8rkupyyxzt48uxf4kv9dfjsyzeh" target="_blank"><img src="img/andromeda.png" title="Andromeda" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://explorer.ksalab.xyz/arkeo/staking/tarkeovaloper1qznu5t6w3m8qfcx5evj96vnz7w57hndqyx9jva" target="_blank"><img src="img/arkeo.png" title="Arkeo" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://explorer.ksalab.xyz/artela_11822-1/staking/artvaloper1yzh74yayvrfk7sgas7gkpurkus8uxs6evvqp69" target="_blank"><img src="img/artela.png" title="Artela" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/artela/staking/artvaloper1yzh74yayvrfk7sgas7gkpurkus8uxs6evvqp69" target="_blank"><img src="img/artela.png" title="Artela" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://goldberg.avail.tools/#/staking" target="_blank"><img src="img/avail.png" title="Avail" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://explorer.ksalab.xyz/bbn-test-3/staking/bbnvaloper1pzpu636l3dyenc2psd648cysg7zfv8ldm6gjae" target="_blank"><img src="img/babylon.png" title="Babylon" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/bevm.png" title="BEVM" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/dusk.png" title="Dusk" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/elixir.png" title="Elixir" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/elys.png" title="Elys" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/galactica.png" title="Galactica" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/koii.png" title="Koii" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/nubit.png" title="Nubit" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/lava-testnet-2/staking/lava@valoper1g7xt4prpusv8kutejj5rntg338q7s5uer56c28" target="_blank"><img src="img/lava.png" title="Lava" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://alpha-beacon.lumoz.info/validator/915ea74b420ef1713fe68976488970a0102631c12da58433251e9c4d6b8ac0ed4297cdd824e83a3e5115794c028ac6d4" target="_blank"><img src="img/opside.png" title="Lumoz (Opside)" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/peak.png" title="Peeq" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://explorer.ksalab.xyz/indigo-1/staking/pryzmvaloper19frj68z3qh5znk8wkmwezde9e3dql2pylttqzj" target="_blank"><img src="img/pryzm.png" title="Pryzm" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://explorer.ksalab.xyz/side-testnet-2/staking/sidevaloper1q9ywpsf3u58q79tcp3jslpagwq3asd9w4h2080" target="_blank"><img src="img/sidechain.png" title="SideChain" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/sge-network-4/staking/sgevaloper1wn7xdzsrv9uewd7hzqp6lkhgl0aqjdnyf5n9qt" target="_blank"><img src="img/sixsigmasports_new.png" title="Sigma Sport" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/subsquid.png" title="Subsquid" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/tengle.png" title="Tangle" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://explorer.tfsc.io/#/pc/ValidatorDetail?address=1NEzai1ot46MRztiw1RKfnrsPJ8bwhgEps" target="_blank"><img src="img/transformers.png" title="Transformers" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/vistara.png" title="Vistara" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.tfsc.io/#/pc/ValidatorDetail?address=0x2f0b706D005dBa942b3e80A2Ecc6a0DcD940937F" target="_blank"><img src="img/transformers.png" title="Transformers" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://voi-nodes.dev/node/26aec3d7-fe99" target="_blank"><img src="img/voi.png" title="Voi" width="80" height="auto" style="max-width: 100%;"></a>
 
 ## Archive
@@ -45,16 +36,23 @@
 <a href="#" target="_blank"><img src="img/5ire.png" title="5ire" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/aleo.png" title="Aleo" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/alephzero.png" title="AlephZero" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/althea.png" title="Althea" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/andromeda.png" title="Andromeda" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/aptos.png" title="Aptos" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/archway.png" title="Archway" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/arkeo.png" title="Arkeo" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/babylon.png" title="Babylon" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/bevm.png" title="BEVM" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/bifrost.png" title="BiFrost" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/bundlr.png" title="Bundlr" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="№" target="_blank"><img src="img/cascadia.png" title="Cascadia" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/celestia.png" title="Celestia" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/chainflip.png" title="Chainflip" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/defund.png" title="DeFund" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/dusk.png" title="Dusk" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/dws.png" title="DWS" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/dymension.png" title="Dymension" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/elys.png" title="Elys" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/gear.png" title="Gear" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/gitopia.png" title="Gitopia" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/gitshock.png" title="Gitshock" width="80" height="auto" style="max-width: 100%;"></a>
@@ -75,10 +73,16 @@
 <a href="#" target="_blank"><img src="img/ojo.png" title="Ojo" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/okp4.png" title="OKP4" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/ollo.png" title="Ollo" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/peak.png" title="Peeq" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/pryzm.png" title="Pryzm" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/sidechain.png" title="SideChain" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/starknet.png" title="StarkNet" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/stride.png" title="Stride" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/subsquid.png" title="Subsquid" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/tengle.png" title="Tangle" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/thepowerio.png" title="ThePower" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/vara.png" title="Vara" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/vistara.png" title="Vistara" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/wormhole.png" title="Wormhole" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/zeeka.png" title="Zeeka" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/ziesha.png" title="Ziesha" width="80" height="auto" style="max-width: 100%;"></a>
