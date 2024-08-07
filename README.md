@@ -8,29 +8,42 @@
 
 ## Mainnets
 
+<a href="#" target="_blank"><img src="img/axelar.png" alt="Axelar" title="Axelar" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/bitcanna/staking/bcnavaloper103cx4ludlqd4q9eefamq5erk7tp65kch6pjutw" target="_blank"><img src="img/bitcanna.png" alt="Bitcanna" title="Bitcana" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://explorer.ksalab.xyz/empower/staking/empowervaloper1shkekeufxhxz962trpswj7qkhpjl39fsv70ujp" target="_blank"><img src="img/empower.png" title="Empower" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/farcaster.png" title="Farcaster" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://explorer.ksalab.xyz/lambda/staking/lambvaloper125zhu6dzklddr7ctdek7zu8drwj28c7qc894mf" target="_black"><img src="img/lambda.png" title="Lambda" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://explorer.massa.net/mainnet/address/AU121hzUt8faWd4fkNgtZ9E38vV2tBh1s71hM1QM9qou43VXGcZni" target="_blank"><img src="img/massa.png" title="Massa" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://www.minima.global/" target="_black"><img src="img/minima.png" title="Minima" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://explorer.ksalab.xyz/self/staking/selfvaloper15nwj8q89h66qq0tuwrj95qmx8x0yqwa2gcpvzc" target="_blank"><img src="img/self.png" title="SelfChain" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://explorer.ksalab.xyz/sge/staking/sgevaloper1e4n6enpatpe0a3eqw6gzcpgq2vgd9a3zcg8ffl" target="_blank"><img src="img/sixsigmasports_new.png" title="Sigma Sport" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/Desmos/staking/desmosvaloper10djdmufyx5hatsh94nt9nw73jnpeq83rvd6n2m" target="_blank"><img src="img/desmos.png" alt="Desmos" title="Desmos" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/empower/staking/empowervaloper1shkekeufxhxz962trpswj7qkhpjl39fsv70ujp" target="_blank"><img src="img/empower.png" alt="Empower" title="Empower" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/evmos.png" alt="Evmos" title="Evmos" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/farcaster.png" alt="Farcaster" title="Farcaster" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/lambda/staking/lambvaloper125zhu6dzklddr7ctdek7zu8drwj28c7qc894mf" target="_black"><img src="img/lambda.png" alt="Lambda" title="Lambda" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/lava/staking/lava@valoper1ynpvdh92ynfccxxgc9jr6n20u9akxa5qjaf2n4" target="_blank"><img src="img/lava.png" alt="Lava" title="Lava" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.massa.net/mainnet/address/AU121hzUt8faWd4fkNgtZ9E38vV2tBh1s71hM1QM9qou43VXGcZni" target="_blank"><img src="img/massa.png" alt="Massa" title="Massa" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://www.minima.global/" target="_black"><img src="img/minima.png" alt="Minima" title="Minima" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/self/staking/selfvaloper15nwj8q89h66qq0tuwrj95qmx8x0yqwa2gcpvzc" target="_blank"><img src="img/self.png" alt="SelfChain" title="SelfChain" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/sge/staking/sgevaloper1e4n6enpatpe0a3eqw6gzcpgq2vgd9a3zcg8ffl" target="_blank"><img src="img/sixsigmasports_new.png" alt="Sigma Sport" title="Sigma Sport" width="80" height="auto" style="max-width: 100%;"></a>
 
 ## Testnets
 
-<a href="https://explorer.ksalab.xyz/artela/staking/artvaloper1yzh74yayvrfk7sgas7gkpurkus8uxs6evvqp69" target="_blank"><img src="img/artela.png" title="Artela" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="https://goldberg.avail.tools/#/staking" target="_blank"><img src="img/avail.png" title="Avail" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/elixir.png" title="Elixir" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/galactica.png" title="Galactica" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/airchain.png" alt="Airchain" title="Airchain" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/artela/staking/artvaloper1yzh74yayvrfk7sgas7gkpurkus8uxs6evvqp69" target="_blank"><img src="img/artela.png" alt="Artela" title="Artela" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/avail.png" alt="Avail" title="Avail" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/bitcanna.png" alt="Bitcanna" title="Bitcana" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/cardchain-testnet/staking/ccvaloper1uwd0jxe63tpjrysc374p6hfrrzdyn8ufhk3a9s" target="_blank"><img src="img/cardchain.png" alt="CardChain" title="CardChain" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/empeiria-testnet/staking/empevaloper1hkhzx7h2y5pyt98ej66x66d35e7fkyflajtsxk" target="_blank"><img src="img/emperia.png" alt="Empeiria" title="Empeiria" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/fiamma-testnet/staking/fiammavaloper1mmqa0a57nn2dvkukuhpfnnfqddmw3x2jvh6vsy" target="_blank"><img src="img/fiamma.png" alt="Fiamma" title="Fiamma" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/galactica.png" alt="Galactica" title="Galactica" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/initia.png" alt="Initia" title="Initia" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/koii.png" title="Koii" width="80" height="auto" style="max-width: 100%;"></a>
-<a href="#" target="_blank"><img src="img/nubit.png" title="Nubit" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/lava-testnet-2/staking/lava@valoper1g7xt4prpusv8kutejj5rntg338q7s5uer56c28" target="_blank"><img src="img/lava.png" title="Lava" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/mantra-testnet/staking/mantravaloper12plfrvjtp3thagdwcje0w8gd3udhvh3ug7e8vs" target="_blank"><img src="img/mantra.png" alt="Mantra" title="Mantra" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/nubit.png" title="Nubit" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://alpha-beacon.lumoz.info/validator/915ea74b420ef1713fe68976488970a0102631c12da58433251e9c4d6b8ac0ed4297cdd824e83a3e5115794c028ac6d4" target="_blank"><img src="img/opside.png" title="Lumoz (Opside)" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/self/staking/selfvaloper19c9hnzqwer6clp8aal3n6y7gcdah4l3ydrrkqv" target="_blank"><img src="img/self.png" title="SelfChain" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/side-testnet/staking/sidevaloper1qqypjzctzuwqgpc7zqfp7ycnz5rskzqwqsd3xzgsrvfqqyc7zuqsg2t8g8p" target="_blank"><img src="img/side.png" alt="SideProtocol" title="SideProtocol" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.ksalab.xyz/sge-network-4/staking/sgevaloper1wn7xdzsrv9uewd7hzqp6lkhgl0aqjdnyf5n9qt" target="_blank"><img src="img/sixsigmasports_new.png" title="Sigma Sport" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://explorer.tfsc.io/#/pc/ValidatorDetail?address=0x2f0b706D005dBa942b3e80A2Ecc6a0DcD940937F" target="_blank"><img src="img/transformers.png" title="Transformers" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="https://voi-nodes.dev/node/26aec3d7-fe99" target="_blank"><img src="img/voi.png" title="Voi" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/warden-testnet/staking/wardenvaloper16detyg22357gf8yljm0acxuk32akaextmuqa2k" target="_blank"><img src="img/warden.png" alt="Warden" title="Warden" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="https://explorer.ksalab.xyz/0g-testnet/staking/0gvaloper1htewlp77d3y343mde3eue0vlstfw3hyuqu6lyv" target="_blank"><img src="img/0g.png" alt="ZeroGravity" title="ZeroGravity" width="80" height="auto" style="max-width: 100%;"></a>
 
 ## Archive
 
@@ -53,6 +66,7 @@
 <a href="#" target="_blank"><img src="img/dusk.png" title="Dusk" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/dws.png" title="DWS" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/dymension.png" title="Dymension" width="80" height="auto" style="max-width: 100%;"></a>
+<a href="#" target="_blank"><img src="img/elixir.png" alt="Elixir" title="Elixir" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/elys.png" title="Elys" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/gear.png" title="Gear" width="80" height="auto" style="max-width: 100%;"></a>
 <a href="#" target="_blank"><img src="img/gitopia.png" title="Gitopia" width="80" height="auto" style="max-width: 100%;"></a>
@@ -146,7 +160,7 @@
 
 ## 🐦 Latest Blog
 
-![Blog](https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=6&username=ksalab&theme=dark)
+coming soon
 
 ### ✍️ Random Dev Quote
 
