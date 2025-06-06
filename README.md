@@ -162,8 +162,6 @@
 
 ![](https://medium-latest-articles.vercel.app/medium/ksalab/3)
 
-coming soon
-
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
