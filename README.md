@@ -160,7 +160,9 @@
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=ksalab&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=3&margin-w=15&margin-h=15)
 
-https://medium-latest-articles.vercel.app/markdown?user=ksalab&count=3
+## Latest Articles
+
+!()[https://medium-latest-articles.vercel.app/?user=yourusername&count=5]
 
 ### ✍️ Random Dev Quote
 
