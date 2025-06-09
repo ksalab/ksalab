@@ -162,7 +162,8 @@
 
 ## Latest Articles
 
-<img src="https://medium-latest-articles.vercel.app/?user=ksalab&count=5">
+<a target="_blank" href="https://medium-latest-articles.vercel.app/?user=ksalab&index=0"><img src="https://medium-latest-articles.vercel.app/?user=ksalab&index=0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://medium-latest-articles.vercel.app/?user=ksalab&index=1"><img src="https://medium-latest-articles.vercel.app/?user=ksalab&index=1" alt="Recent Article 1"></a>
 
 ### ✍️ Random Dev Quote
 
