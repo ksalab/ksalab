@@ -162,8 +162,8 @@
 
 ## Latest Articles
 
-<a target="_blank" href="https://medium-latest-articles.vercel.app/?user=ksalab&index=0"><img src="https://medium-latest-articles.vercel.app/?user=ksalab&index=0" styles="width=100%;" alt="Recent Article 0"></a>
-<a target="_blank" href="https://medium-latest-articles.vercel.app/?user=ksalab&index=1"><img src="https://medium-latest-articles.vercel.app/?user=ksalab&index=1" styles="width=100%;" alt="Recent Article 1"></a>
+<a target="_blank" href="https://medium-latest-articles.vercel.app/?user=ksalab&index=0"><img src="https://medium-latest-articles.vercel.app/?user=ksalab&index=0" style="width=100%;" alt="Recent Article 0"></a>
+<a target="_blank" href="https://medium-latest-articles.vercel.app/?user=ksalab&index=1"><img src="https://medium-latest-articles.vercel.app/?user=ksalab&index=1" style="width=100%;" alt="Recent Article 1"></a>
 
 ### ✍️ Random Dev Quote
 
