@@ -162,7 +162,7 @@
 
 ## Latest Articles
 
-![](https://medium-latest-articles.vercel.app/?user=ksalab&count=5)
+<img src="https://medium-latest-articles.vercel.app/?user=ksalab&count=5">
 
 ### ✍️ Random Dev Quote
 
