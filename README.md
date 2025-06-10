@@ -164,7 +164,7 @@
 
 <div style="width: 100%;">
   <a href="https://medium-latest-articles.vercel.app/?user=ksalab&index=0" target="_blank">
-    <img src="https://medium-latest-articles.vercel.app/?user=ksalab&index=0" alt="Recent Article 0" style="width: 100%; max-width: 100%; height: 100px;">
+    <img src="https://medium-latest-articles.vercel.app/?user=ksalab&index=0" alt="Recent Article 0" style="width: 100%; max-width: 100%; height: 100%;">
   </a>
   <a href="https://medium-latest-articles.vercel.app/?user=ksalab&index=1" target="_blank">
     <img src="https://medium-latest-articles.vercel.app/?user=ksalab&index=1" alt="Recent Article 1" style="width: 100%; max-width: 100%; height: 100px;">
