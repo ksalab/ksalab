@@ -167,16 +167,16 @@
     <img src="https://medium-latest-articles.vercel.app/?user=ksalab&index=0" alt="Recent Article 0" style="width: 100%; max-width: 100%; height: 100%;">
   </a>
   <a href="https://medium-latest-articles.vercel.app/?user=ksalab&index=1" target="_blank">
-    <img src="https://medium-latest-articles.vercel.app/?user=ksalab&index=1" alt="Recent Article 1" style="width: 100%; max-width: 100%; height: 100px;">
+    <img src="https://medium-latest-articles.vercel.app/?user=ksalab&index=1" alt="Recent Article 1" style="width: 100%; max-width: 100%; height: 100%;">
   </a>
   <a href="https://medium-latest-articles.vercel.app/?user=ksalab&index=2" target="_blank">
-    <img src="https://medium-latest-articles.vercel.app/?user=ksalab&index=2" alt="Recent Article 2" style="width: 100%; max-width: 100%; height: 100px;">
+    <img src="https://medium-latest-articles.vercel.app/?user=ksalab&index=2" alt="Recent Article 2" style="width: 100%; max-width: 100%; height: 100%;">
   </a>
   <a href="https://medium-latest-articles.vercel.app/?user=ksalab&index=3" target="_blank">
-    <img src="https://medium-latest-articles.vercel.app/?user=ksalab&index=3" alt="Recent Article 3" style="width: 100%; max-width: 100%; height: 100px;">
+    <img src="https://medium-latest-articles.vercel.app/?user=ksalab&index=3" alt="Recent Article 3" style="width: 100%; max-width: 100%; height: 100%;">
   </a>
   <a href="https://medium-latest-articles.vercel.app/?user=ksalab&index=4" target="_blank">
-    <img src="https://medium-latest-articles.vercel.app/?user=ksalab&index=4" alt="Recent Article 4" style="width: 100%; max-width: 100%; height: 100px;">
+    <img src="https://medium-latest-articles.vercel.app/?user=ksalab&index=4" alt="Recent Article 4" style="width: 100%; max-width: 100%; height: 100%;">
   </a>
 </div>
 
