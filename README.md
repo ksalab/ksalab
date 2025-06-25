@@ -114,7 +114,7 @@
 ## 📊 Statistic
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=ksalab&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=ksalab&theme=dark)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=ksalab&theme=dark&hide_border=false)
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=ksalab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 💻 Tech Stack
