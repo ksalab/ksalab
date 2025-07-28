@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img height="200" width="auto" src="https://raw.githubusercontent.com/ksalab/ksalab/main/img/1500x500.jpeg"  />
+  <img height="200" width="auto" src="https://raw.githubusercontent.com/ksalab/ksalab/main/img/x_banner.jpeg"  />
 
 ### ${\color{green}VALIDATOR}$ PROFILE
 
