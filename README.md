@@ -53,6 +53,8 @@ My repositories typically fall into these categories:
 
 ---
 
+<div align="center">
+
 ## 🌐 Contact Us
 
 [![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://twitter.com/@ksa_lab)
