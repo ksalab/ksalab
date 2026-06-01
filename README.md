@@ -1,8 +1,8 @@
 <div align="center">
-
   <img height="200" width="auto" src="https://raw.githubusercontent.com/ksalab/ksalab/main/img/x_banner.jpeg"  />
+</div>
 
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Ksalab! 👋
 
 ### Senior Backend Engineer | Automation Architect | Systems Specialist
 
