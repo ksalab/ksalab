@@ -109,7 +109,7 @@ My repositories typically fall into these categories:
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ksalab&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=3&margin-w=15&margin-h=15)
+![Trophies](https://github-profile-trophy.vercel.app/?username=https://github.com/ksalab&theme=flat&row=1&column=6&no-bg=true)
 
 ## Latest Articles
 
