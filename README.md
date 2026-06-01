@@ -2,7 +2,7 @@
   <img height="200" width="auto" src="https://raw.githubusercontent.com/ksalab/ksalab/main/img/x_banner.jpeg"  />
 </div>
 
-# Hi, I'm Ksalab! 👋
+# Hi, I'm KSAlab! 👋
 
 ### Backend Engineer | Automation Architect | Systems Specialist
 
