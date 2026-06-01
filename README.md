@@ -4,7 +4,7 @@
 
 # Hi, I'm Ksalab! 👋
 
-### Senior Backend Engineer | Automation Architect | Systems Specialist
+### Backend Engineer | Automation Architect | Systems Specialist
 
 I build robust, scalable, and highly efficient backend systems. My work focuses on bridging the gap between complex business logic and seamless automation. I am a firm believer in **technical integrity**, **surgical code changes**, and **empirical validation**.
 
